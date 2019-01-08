@@ -18,7 +18,7 @@ This version should be considered obsolete, new projects should use the new vers
 
 ## Changes vs tecnickcom/TCPDF v.6.2.26
 
-Fixed XMP custom metadata addition to comply with XMP speficifation.
+Fixed XMP custom metadata addition to comply with XMP specification.
 
 ## Description
 
