@@ -16,7 +16,9 @@
 A new version of this library is under development at https://github.com/tecnickcom/tc-lib-pdf and as a consequence this version will not receive any additional development or support.
 This version should be considered obsolete, new projects should use the new version as soon it will become stable.
 
+## Changes vs tecnickcom/TCPDF v.6.2.26
 
+Fixed XMP custom metadata addition to comply with XMP speficifation.
 
 ## Description
 
